@@ -23,8 +23,8 @@ li:first-child {
   width: 40%;
 }
 p.centered {
-  text-indent: 3mm;
   text-align: center;
+  width:50%;
 }
 h1 {
   text-align:center;
